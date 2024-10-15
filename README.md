@@ -20,8 +20,7 @@ I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multim
 
 
 ### AI & Machine Learning
-![GPT](https://img.shields.io/badge/-GPT-412991?logo=openai&logoColor=white&style=for-the-badge) ![BERT](https://img.shields.io/badge/-BERT-00897B?logo=bert&logoColor=white&style=for-the-badge) ![Whisper](https://img.shields.io/badge/-Whisper-2C3E50?logo=openai&logoColor=white&style=for-the-badge) ![RNN](https://img.shields.io/badge/-RNN-00C853?logo=tensorflow&logoColor=white&style=for-the-badge) ![LSTM](https://img.shields.io/badge/-LSTM-5C6BC0?logo=keras&logoColor=white&style=for-the-badge) ![CNN](https://img.shields.io/badge/-CNN-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)  ![Transformers](https://img.shields.io/badge/-Transformers-CC0000?logo=pytorch&logoColor=white&style=for-the-badge) ![LLaMA](https://img.shields.io/badge/-LLaMA-009688?logo=meta&logoColor=white&style=for-the-badge)  
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFCC00?logo=huggingface&logoColor=black&style=for-the-badge) ![BART](https://img.shields.io/badge/-BART-4682B4?logo=transformers&logoColor=white&style=for-the-badge) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
+![GPT](https://img.shields.io/badge/-GPT-412991?logo=openai&logoColor=white&style=for-the-badge) ![BERT](https://img.shields.io/badge/-BERT-00897B?logo=bert&logoColor=white&style=for-the-badge) ![Whisper](https://img.shields.io/badge/-Whisper-2C3E50?logo=openai&logoColor=white&style=for-the-badge) ![RNN](https://img.shields.io/badge/-RNN-00C853?logo=tensorflow&logoColor=white&style=for-the-badge) ![LSTM](https://img.shields.io/badge/-LSTM-5C6BC0?logo=keras&logoColor=white&style=for-the-badge) ![CNN](https://img.shields.io/badge/-CNN-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)  ![Transformers](https://img.shields.io/badge/-Transformers-CC0000?logo=pytorch&logoColor=white&style=for-the-badge) ![LLaMA](https://img.shields.io/badge/-LLaMA-009688?logo=meta&logoColor=white&style=for-the-badge) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFCC00?logo=huggingface&logoColor=black&style=for-the-badge) ![BART](https://img.shields.io/badge/-BART-4682B4?logo=transformers&logoColor=white&style=for-the-badge) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
 
 
 ### Data Engineering  
@@ -29,8 +28,7 @@ I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multim
 
 
 ### Tools  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) ![LangChain](https://img.shields.io/badge/-LangChain-0066CC?logo=langchain&logoColor=white&style=for-the-badge)   
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge) ![LangChain](https://img.shields.io/badge/-LangChain-0066CC?logo=langchain&logoColor=white&style=for-the-badge)   
 
 ### IDEs/Editors
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
