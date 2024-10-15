@@ -1,4 +1,6 @@
 ## Hi there 👋
+<img src=”[https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://private-user-images.githubusercontent.com/47107060/376515813-e6b7fd3c-c7c9-40f9-8a64-dce295dd7d20.png)" alt=”my banner”>
+
 # 🧠 About Me  
 I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multimodal LLM models** and **NLP frameworks**. I enjoy exploring the latest innovations in AI, from 3D facial modeling to predictive models in finance. I’ve led AI-driven projects across industries like cryptocurrency and video processing, and I’m always looking for the next challenge.
 
