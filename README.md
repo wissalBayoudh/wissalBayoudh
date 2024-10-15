@@ -11,7 +11,15 @@ I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multim
 - **Cryptotoken Pricing Model**: Created an LSTM-based model for cryptocurrency pricing with a 92% accuracy rate.
 
 ## 🛠️ Skills  
-- **Languages**: Python, FastAPI, PyTorch, JavaScript  
+
+### Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)  
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+
 - **AI & Machine Learning**: GPT, BERT, Whisper, RNN, LSTM, CNN  
 - **Data Engineering**: SQL, NoSQL, Docker, MongoDB, Spark  
 - **Tools**: Docker, TensorFlow, LangChain  
