@@ -25,7 +25,7 @@ I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multim
 
 ### ⚡ Fun fact:
 - I'm fascinated by the intersection of AI and fashion! I’m working on combining AI-generated designs with real-world 3D modeling.
-  
+<!--
 ## 🌟 Featured Projects  
 ### **Outfit Generation and Design Creation Application**  
 - **Overview**: A web-based application enabling users to generate custom outfit designs based on text descriptions. Users receive a **Design Card** that includes details like the title, clothing type, designer inspiration, style, and fabric, along with a generated image.  
@@ -43,7 +43,7 @@ I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multim
 ### **Cryptotoken Pricing Model**  
 - **Overview**: Built an LSTM-based model for cryptocurrency pricing with a 92% accuracy rate.  
 - **Technologies Used**: LSTM, Python, SANAPI.
-
+-->
 ## 🛠️ Skills  
 
 ### Languages  
