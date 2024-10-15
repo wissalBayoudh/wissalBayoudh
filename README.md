@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/e6b7fd3c-c7c9-40f9-8a64-dce295dd7d20)" alt=”my banner”>
+<img src="https://github.com/user-attachments/assets/e6b7fd3c-c7c9-40f9-8a64-dce295dd7d20" alt=”my banner”>
 
 # 🧠 About Me  
 I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multimodal LLM models** and **NLP frameworks**. I enjoy exploring the latest innovations in AI, from 3D facial modeling to predictive models in finance. I’ve led AI-driven projects across industries like cryptocurrency and video processing, and I’m always looking for the next challenge.
