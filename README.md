@@ -1,10 +1,31 @@
-## Hi there 👋
+## Hi there 👋 I am _Wissal Bayoudh_
 ![Blue Modern Corporate Staff Profile LinkedIn Banner](https://github.com/user-attachments/assets/e6b7fd3c-c7c9-40f9-8a64-dce295dd7d20)
 
 
 # 🧠 About Me  
 I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multimodal LLM models** and **NLP frameworks**. I enjoy exploring the latest innovations in AI, from 3D facial modeling to predictive models in finance. Recently, I’ve been working on a freelance project focused on **Outfit Generation and Design Creation** using **Flux1a**, **DALL-E**, **Stable Diffusion**, and **Faceswap**, bringing cutting-edge fashion design to life through AI. I’ve led AI-driven projects across industries like cryptocurrency, fashion, and video processing, and I’m always looking for the next challenge.
 
+---
+
+### 🔭 I’m currently working on:
+- **Freelance Project**: Developing an **Outfit Generation and Design Creation Application** that generates custom outfits from text descriptions, using Flux1a, DALL·E, Stable Diffusion, and Faceswap. It includes virtual try-on features with MongoDB-based CRUD operations.
+- **Meeting Analysis Solution**: Building an AI-driven meeting assistant that extracts key metrics, decisions, tasks, and insights from recordings using GPT, Whisper, and BERT.
+
+### 🌱 I’m currently learning:
+- **LLMOps**: Exploring how to operationalize large language models at scale and streamline GenAI workflows.
+
+### 👯 I’m looking to collaborate on:
+- **Generative AI projects**, especially those involving **AI-powered design, NLP, 3D modeling**, or **virtual try-ons**.
+
+### 📫 How to reach me:
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/feed/)
+- **UpWork**:  [Your UpWork Profile](https://www.linkedin.com/feed/)
+- **GitHub**: [Your GitHub Profile](https://github.com/wissalBayoudh)
+
+### ⚡ Fun fact:
+- I'm fascinated by the intersection of AI and fashion! I’m working on combining AI-generated designs with real-world 3D modeling.
+  
 ## 🌟 Featured Projects  
 ### **Outfit Generation and Design Creation Application**  
 - **Overview**: A web-based application enabling users to generate custom outfit designs based on text descriptions. Users receive a **Design Card** that includes details like the title, clothing type, designer inspiration, style, and fabric, along with a generated image.  
