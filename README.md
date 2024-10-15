@@ -18,10 +18,10 @@ I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multim
 - **Generative AI projects**, especially those involving **AI-powered design, NLP, 3D modeling**, or **virtual try-ons**.
 
 ### 📫 How to reach me:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/feed/)
-- **UpWork**:  [Your UpWork Profile](https://www.linkedin.com/feed/)
-- **GitHub**: [Your GitHub Profile](https://github.com/wissalBayoudh)
+- **Email**: wissal.bayoudh.work@gmail.com
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/feed/)
+- **UpWork**:  [My UpWork Profile](https://www.linkedin.com/feed/)
+- **GitHub**: [My GitHub Profile](https://github.com/wissalBayoudh)
 
 ### ⚡ Fun fact:
 - I'm fascinated by the intersection of AI and fashion! I’m working on combining AI-generated designs with real-world 3D modeling.
