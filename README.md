@@ -3,7 +3,7 @@
 
 
 # 🧠 About Me  
-I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multimodal LLM models** and **NLP frameworks**. I enjoy exploring the latest innovations in AI, from 3D facial modeling to predictive models in finance. Recently, I’ve been working on a freelance project focused on **Outfit Generation and Design Creation** using **Flux1a**, **DALL-E**, **Stable Diffusion**, and **Faceswap**, bringing cutting-edge fashion design to life through AI. I’ve led AI-driven projects across industries like cryptocurrency, fashion, and video processing, and I’m always looking for the next challenge.
+I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multimodal LLM models** and **NLP frameworks**. I enjoy exploring the latest innovations in AI, from 3D facial modeling to predictive models in finance. Recently, I’ve been working on a freelance project focused on **Outfit Generation and Design Creation** using **Flux1a**, **DALL-E**, **Stable Diffusion**, and **Faceswap**, bringing fashion design to life through AI. I’ve led AI-driven projects across industries like cryptocurrency, fashion, and video processing, and I’m always looking for the next challenge.
 
 ---
 
