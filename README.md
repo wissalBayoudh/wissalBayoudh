@@ -19,7 +19,7 @@ I'm a passionate **AI Engineer** and **Data Scientist** specializing in **multim
 
 ### 📫 How to reach me:
 - **Email**: wissal.bayoudh.work@gmail.com
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/feed/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/wissal-bayoudh/)
 - **UpWork**:  [My UpWork Profile](https://www.upwork.com/freelancers/~01e07abad545191076)
 - **GitHub**: [My GitHub Profile](https://github.com/wissalBayoudh)
 
